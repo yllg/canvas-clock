@@ -103,13 +103,13 @@ var img = new Image();
         cxt.restore();
 
     
-        //MADE IN YLLG
+        //MADE BY YLLG
          cxt.save();
         cxt.translate(250, 250);
         cxt.font = "  18px 微软雅黑";
         cxt.lineWidth = 3;
         cxt.fillStyle = "#444";
-        cxt.fillText("MADE IN YLLG", -65, 100);
+        cxt.fillText("MADE BY YLLG", -65, 100);
         cxt.restore();
 
 
